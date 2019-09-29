@@ -1,0 +1,5 @@
+git init
+git add .
+git remote and origin ..........git http link to link github repo
+git commit to save localy
+git push to save on github
